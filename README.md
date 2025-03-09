@@ -1,4 +1,4 @@
-<img src="preview.png" alt="White-Minimalist-Profile-Linked-In-Banner-2" border="0" width="100%">
+<img src="preview.png" alt="App Previews" border="0" width="100%">
 # To-Do Ease
 A simple Todo List application built with React Native, featuring multiple themes and basic CRUD operations.
 
